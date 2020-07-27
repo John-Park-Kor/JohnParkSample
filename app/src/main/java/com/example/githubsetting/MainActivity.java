@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //뭐가 된건강?
         //좀제발
+        //느금
     }
 }
